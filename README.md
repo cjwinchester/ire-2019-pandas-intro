@@ -2,7 +2,7 @@
 
 Notebooks and documentation for a 3.5-hour session at IRE 2019 on using the `pandas` Python library to analyze data.
 
-## Link to this repo: [bit.ly/ire19-pandas](http://bit.ly/ire19-pandas)
+### Link to this repo: [bit.ly/ire19-pandas](http://bit.ly/ire19-pandas)
 
 - [Session details](#session-details)
 - [Running these notebooks at home](#running-these-notebooks-at-home)
