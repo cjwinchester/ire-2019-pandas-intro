@@ -6,7 +6,7 @@ Notebooks and documentation for a 3.5-hour session at IRE 2019 on using the `pan
 
 ## Outline
 - [Session details](#session-details)
-- [Installing Python and tools](#installing-python-and-tools)
+- [Installing Python on your own computer](#installing-python-on-your-own-computer)
 - [Running these notebooks at home](#running-these-notebooks-at-home)
 - [Starting a new data analysis project using this setup](#starting-a-new-data-analysis-project-using-this-setup)
 
@@ -22,7 +22,7 @@ Some familiarity with basic Python syntax is helpful -- you might first check ou
 
 **What we'll (try to) cover:** Importing pandas, loading a data file into a data frame, sorting, filtering, grouping and aggregating data.
 
-## Installing Python and tools
+## Installing Python on your own computer
 There are many ways to install Python and the tools you need to get up and running. [Here's how we suggest doing it](https://docs.google.com/document/d/1cYmpfZEZ8r-09Q6Go917cKVcQk_d0P61gm0q8DAdIdg/edit?usp=sharing). Please feel free to email me if you run into any problems: [cody@ire.org](mailto:cody@ire.org).
 
 ## Running these notebooks at home
