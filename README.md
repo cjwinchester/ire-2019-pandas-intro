@@ -4,7 +4,9 @@ Notebooks and documentation for a 3.5-hour session at IRE 2019 on using the `pan
 
 ### Link to this repo: [bit.ly/ire19-pandas](http://bit.ly/ire19-pandas)
 
+## Outline
 - [Session details](#session-details)
+- [Installing Python and tools](#installing-python-and-tools)
 - [Running these notebooks at home](#running-these-notebooks-at-home)
 - [Starting a new data analysis project using this setup](#starting-a-new-data-analysis-project-using-this-setup)
 
@@ -20,19 +22,18 @@ Some familiarity with basic Python syntax is helpful -- you might first check ou
 
 **What we'll (try to) cover:** Importing pandas, loading a data file into a data frame, sorting, filtering, grouping and aggregating data.
 
-## Running these notebooks at home
-
-### Step 1: Install Python and some other tools
-
+## Installing Python and tools
 There are many ways to install Python and the tools you need to get up and running. [Here's how we suggest doing it](https://docs.google.com/document/d/1cYmpfZEZ8r-09Q6Go917cKVcQk_d0P61gm0q8DAdIdg/edit?usp=sharing). Please feel free to email me if you run into any problems: [cody@ire.org](mailto:cody@ire.org).
 
-### Step 2: Download or clone this repo
+## Running these notebooks at home
+
+### Step 1: Download or clone this repo
 
 If you have git set up already, navigate to your terminal or command prompt and run this command: `git clone https://github.com/cjwinchester/ire-2019-pandas-intro`
 
 If you don't have git set up, you can download the repo as a zipfile [here](https://github.com/cjwinchester/ire-2019-pandas-intro/archive/master.zip) and unzip it. Make note of where the folder lives on your computer.
 
-### Step 3: Install the tools you need
+### Step 2: Install the tools you need
 
 This step assumes that you have already installed the latest version of Python 3 and pipenv.
 
@@ -46,7 +47,7 @@ Next, make sure you're in the correct directory. If you're on a Mac, run this co
 
 Finally, install the libraries you'll need: `pipenv install`.
 
-### Step 4: Run the notebooks
+### Step 3: Run the notebooks
 
 Once everything has installed, run this command: `pipenv run jupyter notebook`.
 
